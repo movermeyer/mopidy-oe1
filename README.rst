@@ -2,7 +2,7 @@
 Mopidy-OE1
 ****************************
 
-.. image:: https://pypip.in/v/Mopidy-OE1/badge.png
+.. image:: https://img.shields.io/pypi/v/Mopidy-OE1.svg
     :target: https://pypi.python.org/pypi/Mopidy-OE1/
     :alt: Latest PyPI version
 
